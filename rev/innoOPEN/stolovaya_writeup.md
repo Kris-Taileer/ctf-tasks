@@ -59,7 +59,7 @@ so we take 158913790 from "x congruent 158913790 (mod 536870912)"
 and it's one of nums that will give us flag
 
 ```bash
-kris@bigfuckingputer ~/D/L/innoOPEN [127]> ./stolovaya 
+kris@bigfuckingputer ~/D/L/innoOPEN> ./stolovaya 
 === Школьный автомат-буфет ===
 На подарочной карте: 50 монет.
 Меню:
