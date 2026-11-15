@@ -13,6 +13,7 @@
 ```
 
 actually it's a pwn in one mathematical equation:
+that's why im writing this writeup: i REALLY liked this idea (and that i didnt need to write any pwntools sploit lol)
 
 1000 * x <= 50 mod 2^32
 
